@@ -19,7 +19,8 @@ export default class About extends Component {
       <div className="centered">
         <div className="name_title">Karam Khan</div>
         <div className="brief_description">
-          // Details about you goes here
+        Hello! I'm an aspiring software developer who loves programming in Java. 
+        I enjoy running and my favorite thing to tinker with is Google Calendar!
         </div>
       </div>
     </div>
